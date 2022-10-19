@@ -47,7 +47,6 @@ Initiative 3 : créer une chaîne Slack alerte pour notifier
 
 ![4](/assets/videos/1/4.png)
 
-
 ## OKRs rules
 
 - Set them frequently
