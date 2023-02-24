@@ -98,7 +98,7 @@ Seed stage money is to reach PMF
 
 Series A and beyond expect sustained growth
 
-![1](/assets/videos/2/1.png)
+![1](/@assets/videos/2/1.png)
 
 # How to not run out of money
 

@@ -1,29 +1,29 @@
 # OKRs un moyen de structurer ses objectifs d’entreprise
 
-  - [Goals vs OKRs & Initiatives](#goals-vs-okrs--initiatives)
-  - [Anatomy of OKRs](#anatomy-of-okrs)
-  - [Outcomes vs Outputs](#outcomes-vs-outputs)
-  - [Example of OKR](#example-of-okr)
-  - [Ultimate vision](#ultimate-vision)
-  - [Hiérarchie of OKRs](#hiérarchie-of-okrs)
-  - [OKRs rules](#okrs-rules)
-  - [Sources](#sources)
+- [Goals vs OKRs & Initiatives](#goals-vs-okrs--initiatives)
+- [Anatomy of OKRs](#anatomy-of-okrs)
+- [Outcomes vs Outputs](#outcomes-vs-outputs)
+- [Example of OKR](#example-of-okr)
+- [Ultimate vision](#ultimate-vision)
+- [Hiérarchie of OKRs](#hiérarchie-of-okrs)
+- [OKRs rules](#okrs-rules)
+- [Sources](#sources)
 
 ## Goals vs OKRs & Initiatives
 
-![1](/assets/videos/1/1.png)
+![1](/@assets/videos/1/1.png)
 
 ## Anatomy of OKRs
 
-![2](/assets/videos/1/2.png)
+![2](/@assets/videos/1/2.png)
 
 ## Outcomes vs Outputs
 
-`OKRs = Outcomes`  `Initiatives = Outputs`
+`OKRs = Outcomes` `Initiatives = Outputs`
 
 ## Example d'OKR
 
->💡 Un Objectif doit être inspirant. Un KR doit être mesurable, ambitieux mais réaliste.
+> 💡 Un Objectif doit être inspirant. Un KR doit être mesurable, ambitieux mais réaliste.
 
 **Objective**: Faire en sorte que nos clients aiment notre équipe d'assistance
 
@@ -41,11 +41,11 @@ Initiative 3 : créer une chaîne Slack alerte pour notifier
 
 ## Ultimate vision
 
-![3](/assets/videos/1/3.png)
+![3](/@assets/videos/1/3.png)
 
 ## Hiérarchie d'un OKR
 
-![4](/assets/videos/1/4.png)
+![4](/@assets/videos/1/4.png)
 
 ## OKRs rules
 
