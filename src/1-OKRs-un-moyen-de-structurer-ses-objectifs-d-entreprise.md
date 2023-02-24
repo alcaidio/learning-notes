@@ -11,11 +11,11 @@
 
 ## Goals vs OKRs & Initiatives
 
-![1](/@assets/videos/1/1.png)
+![1](/@assets/1/1.png)
 
 ## Anatomy of OKRs
 
-![2](/@assets/videos/1/2.png)
+![2](/@assets/1/2.png)
 
 ## Outcomes vs Outputs
 
@@ -41,11 +41,11 @@ Initiative 3 : créer une chaîne Slack alerte pour notifier
 
 ## Ultimate vision
 
-![3](/@assets/videos/1/3.png)
+![3](/@assets/1/3.png)
 
 ## Hiérarchie d'un OKR
 
-![4](/@assets/videos/1/4.png)
+![4](/@assets/1/4.png)
 
 ## OKRs rules
 
