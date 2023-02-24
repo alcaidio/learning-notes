@@ -1,6 +1,6 @@
 # Learning Notes
 
-Here you will find notes from the books I read, the videos I watch, the articles I study and the podcasts I listen to.
+Here you will find notes (in English and French) from the books I read, the videos I watch, the articles I study and the podcasts I listen to.
 
 >"Taking notes is sowing the first seeds of a new idea" - Gaëtan Faucer
 
