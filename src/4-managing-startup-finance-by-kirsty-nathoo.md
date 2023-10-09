@@ -22,6 +22,7 @@ Les 4 autres en découlent :
 - Burn ($) = Money Out - Money In
 - Runway (# of months) = BankBalance / Burn moyen
 - Growth rate (%) = MoneyIn (month 2) - MoneyIn (month 1)}{MoneyIn (month 1)}
+- Default Alive? [CALCUL IT](https://growth.tlb.org/)
 
 ## #1 Not knowing what to look at
 
